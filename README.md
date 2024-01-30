@@ -1,0 +1,3 @@
+YARP, or Yet Another Robot Platform, is a versatile and open-source middleware designed to address the complex communication needs of robotic systems. Developed with a focus on flexibility and scalability, YARP serves as a crucial component in the development and control of robots across various applications.
+
+At its core, YARP provides a communication infrastructure that enables seamless interaction between different modules within a robot's software architecture. This includes the exchange of sensory data, control signals, and other relevant information among the diverse components of a robotic system.
