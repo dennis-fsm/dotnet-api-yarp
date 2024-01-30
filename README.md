@@ -1,13 +1,13 @@
-# YARP or Yet Another Robot Platform
-A versatile and open-source middleware designed to address the complex communication needs of robotic systems. Developed with a focus on flexibility and scalability, YARP serves as a crucial component in the development and control of robots across various applications.
+# YARP or Yet Another Reverse Platform
+A versatile and open-source middleware designed to address the complex communication needs of systems. Developed with a focus on flexibility and scalability, YARP serves as a crucial component in the development and control of services across various applications.
 
-At its core, YARP provides a communication infrastructure that enables seamless interaction between different modules within a robot's software architecture. This includes the exchange of sensory data, control signals, and other relevant information among the diverse components of a robotic system.
+At its core, YARP provides a communication infrastructure that enables seamless interaction between different modules within a software architecture. 
 
 ## Key Features of YARP:
-- **Modularity:** YARP promotes a modular approach to robotics development, allowing researchers and developers to design and integrate different modules independently.
-- **Inter-Process Communication:** It facilitates efficient communication between processes and modules, both within a single robot and across networked robots.
-- **Platform Independence:** YARP is platform-independent, supporting various operating systems, which enhances its adaptability to different robotic platforms.
-- **Extensibility:** Developers can extend the functionality of YARP by adding custom modules and interfaces, providing a customizable framework for diverse robotic applications.
+- **Modularity:** YARP promotes a modular approach to development, allowing researchers and developers to design and integrate different modules independently.
+- **Inter-Process Communication:** It facilitates efficient communication between processes and modules, both within a single service and across networked services.
+- **Platform Independence:** YARP is platform-independent, supporting various operating systems, which enhances its adaptability to different platforms.
+- **Extensibility:** Developers can extend the functionality of YARP by adding custom modules and interfaces, providing a customizable framework for diverse applications.
 - **Community Support:** Being an open-source project, YARP benefits from a collaborative community of developers and researchers who contribute to its ongoing improvement and evolution.
 
 ## Scenarios for usage of YARP
