@@ -1,4 +1,4 @@
-# YARP or Yet Another Reverse Platform
+# YARP or Yet Another Reverse Proxy
 A versatile and open-source middleware designed to address the complex communication needs of systems. Developed with a focus on flexibility and scalability, YARP serves as a crucial component in the development and control of services across various applications.
 
 At its core, YARP provides a communication infrastructure that enables seamless interaction between different modules within a software architecture. 
