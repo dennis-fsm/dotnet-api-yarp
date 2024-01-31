@@ -23,3 +23,16 @@ YARP allows for seamless transformation of requests, enabling organizations to m
 Beyond the specified scenarios, YARP's adaptability extends to a wide array of use cases, thanks to its modular and extensible architecture.
 
 In summary, YARP stands out as a versatile solution, offering a robust foundation for various architectural patterns and addressing the intricate communication needs of modern systems. Whether applied in a microservices environment, for load balancing, as an API gateway, or for request transformations, YARP's capabilities contribute to the development of scalable and efficient applications within the .NET ecosystem.
+
+## Start-up settings
+- Right click on the solution and go to startup
+![image](https://github.com/dennis-fsm/dotnet-api-yarp/assets/120356356/b0730056-51eb-4c07-9de0-99eb570594f1)
+
+- Set the startup to run all projects (basically, each micro services)
+![image](https://github.com/dennis-fsm/dotnet-api-yarp/assets/120356356/da983d96-a9c1-4935-ad4e-2a693e6b3d47)
+
+- Change the url so that its sensitive to the micro services internal url
+![image](https://github.com/dennis-fsm/dotnet-api-yarp/assets/120356356/14ec7378-0f43-4c8e-a5bc-4ac9066b9bcf)
+
+In a future session, i will make it more simpler by running all those services inside a docker container.
+Happy programming
